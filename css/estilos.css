@@ -1,0 +1,138 @@
+.jum{
+	background-color: #005883;
+	color: white;
+}
+.vav{
+	margin-top: -30px;
+}
+.histori{
+	color: #170A02;
+	font-family:Times New Roman ;
+	font: bolder;
+	font-size: 70px;
+	}
+
+.social ul{
+	list-style:none;
+}
+
+
+
+.social ul li a{
+	text-decoration: none;
+	display: block;
+	font-size: 18px;
+	color: white;
+	padding: 10px;
+	border-radius: 60px;
+
+}
+.social ul li .icon-facebook{
+	background: #3B5998;
+}
+.social ul li .icon-twitter{
+	background: #00ABF0;
+}
+.social ul li .icon-google-plus2{
+	background: #D95232;
+}
+.social ul li .icon-youtube{
+	background: #AE181F
+}
+.social ul li .icon-pinterest{
+	background: #666666;
+}
+.social ul li a:hover{
+	-moz-transform: scale(2) rotate(10deg) translateX(2px);
+-webkit-transform: scale(2) rotate(10deg) translateX(2px);
+-o-transform: scale(2) rotate(10deg) translateX(2px);
+-ms-transform: scale(2) rotate(10deg) translateX(2px);
+transform: scale(2) rotate(10deg) translateX(2px);
+
+-webkit-transition: all 2s ease-in;
+-moz-transition: all 2s ease-in;
+-ms-transition: all 2s ease-in;
+-o-transition: all 2s ease-in;
+transition: all 2s ease-in;
+
+-webkit-box-shadow: 2px 2px 2px 2px #59383D;
+box-shadow: 2px 2px 2px 2px #59383D;
+}
+.social ul li{
+	padding-right: 2px;
+}
+.dis{
+	font-size: 36px;
+	color: #BF0101;
+	text-align: center;
+	margin-top: 20px;
+}
+.lis{
+	font-size: 36px;
+	color: #ED7E06;
+	text-align: center;
+}
+
+footer{
+	background: #005883;
+	font-size: 20px;
+	color:#ffffff;
+	margin-top: 40px;
+	opacity: 0.8;
+
+}
+h4{
+	font-size: 20px;
+	color: #F5EAEA;
+
+}
+h5{
+	font-size: 20px;
+	color: #F5EAEA;
+}
+h6{
+	font-size: 20px;
+	color: #F5EAEA;
+}
+.dis>img:hover{
+	-moz-transform: scale(.9) rotate(20deg);
+-webkit-transform: scale(.9) rotate(20deg);
+-o-transform: scale(.9) rotate(20deg);
+-ms-transform: scale(.9) rotate(20deg);
+transform: scale(.9) rotate(20deg);
+
+-webkit-transition: all 2000ms ease-out;
+-moz-transition: all 2000ms ease-out;
+-ms-transition: all 2000ms ease-out;
+-o-transition: all 2000ms ease-out;
+transition: all 2000ms ease-out;
+}
+.ancho{
+	margin-top: 80px;
+
+}
+.cuerpo{
+	background: #A1C3ED;
+}
+.col1{
+	padding-bottom: 10px;
+	
+}
+h1{
+	font-family: Times New Roman;
+	font-size: 60px;
+
+}
+.fuente{
+	font-family: Times New Roman;
+	font-size: 25px;
+	
+}
+h2{
+	font-size: 20px;
+	color: #000000;
+}
+h3{
+	font-size: 20px;
+	color: #000000;
+}
