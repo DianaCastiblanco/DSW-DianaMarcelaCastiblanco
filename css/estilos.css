@@ -7,15 +7,14 @@
 }
 .histori{
 	color: #170A02;
-	font-family:Times New Roman ;
+	font-family:franklin gothic heavy;
 	font: bolder;
-	font-size: 70px;
+	font-size: 30px;
 	}
 
 .social ul{
 	list-style:none;
 }
-
 
 
 .social ul li a{
@@ -74,13 +73,15 @@ box-shadow: 2px 2px 2px 2px #59383D;
 }
 
 footer{
-	background: #005883;
+	background-color: #005883;
 	font-size: 20px;
 	color:#ffffff;
 	margin-top: 40px;
-	opacity: 0.8;
+    opacity: 15;
+	font-family:franklin gothic heavy;
 
 }
+
 h4{
 	font-size: 20px;
 	color: #F5EAEA;
@@ -119,20 +120,111 @@ transition: all 2000ms ease-out;
 	
 }
 h1{
-	font-family: Times New Roman;
+	font-family:franklin gothic heavy;
 	font-size: 60px;
 
 }
 .fuente{
-	font-family: Times New Roman;
+	font-family:franklin gothic heavy;
 	font-size: 25px;
 	
 }
 h2{
 	font-size: 20px;
+	font-family:franklin gothic heavy;
 	color: #000000;
 }
 h3{
 	font-size: 20px;
+	font-family:franklin gothic heavy;
+	color: #000000;
+}
+img{
+	width: 150px;
+	height:150px; 
+}
+
+thead{
+	display: table-header-group;
+	vertical-align: middle;
+	border-color: inherit;
+}
+table{
+	width: 100%;
+	border: 2px solid #000000;
+	border-collapse: collapse;
+	box-shadow: 0 0 15px #0A6C93;
+	margin: 2em;
+	display: table;
+	border-spacing: 2px;
+
+}
+tr{
+	background:  #0A6C93;
+	vertical-align: inherit;
+	border-color: inherit;
+	font-size: 20px;
+
+}
+
+td{
+	display: table-cell;
+	vertical-align: inherit;
+	color: #ffffff;
+	border: black 2px solid;
+	text-align: justify;
+
+}
+.parrafo{
+font-family:franklin gothic heavy;
+	color: #000000;
+	text-align:justify;
+}
+.etique1{
+	background:#4F97AA;
+}
+.etique2{
+	background: #0D7593;
+	}
+
+caption{
+	color: #000000;
+	font-family:franklin gothic heavy;
+	font-size: 20px;
+	text-align: center;
+}
+.atributo{
+	width: 100%;
+    border: 2px solid #000000;
+	border-collapse: collapse;
+	box-shadow: 0 0 15px #F47920;
+	margin: 2em;
+	display: table;
+	border-spacing: 2px;
+
+}
+.atri1{
+	background-color: #F47920;
+}
+.atri2{
+	background-color: #C4743D;
+	
+}
+.atri3{
+	background-color: #C6590E;
+etiqueta
+}
+.biografia{
+	font-family:franklin gothic heavy;
+	color: #000000;
+}
+.url{
+	color: blue;
+	font-family: franklin gothic heavy;
+	font-size: 16px;
+}
+.datos{
+	font-family: franklin gothic heavy;
+	font-size: 16px;
 	color: #000000;
 }
