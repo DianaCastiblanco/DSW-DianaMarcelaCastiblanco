@@ -73,7 +73,7 @@ box-shadow: 2px 2px 2px 2px #59383D;
 }
 
 footer{
-	background-color: #005883;
+	background-color: #05405e;
 	font-size: 20px;
 	color:#ffffff;
 	margin-top: 40px;
@@ -139,9 +139,24 @@ h3{
 	font-family:franklin gothic heavy;
 	color: #000000;
 }
-img{
-	width: 150px;
-	height:150px; 
+img:hover{
+	width: 300px;
+	height:250px; 
+
+	-moz-transform: scale(2) rotate(5deg) translateX(2px);
+-webkit-transform: scale(2) rotate(5deg) translateX(2px);
+-o-transform: scale(2) rotate(5deg) translateX(2px);
+-ms-transform: scale(2) rotate(5deg) translateX(2px);
+transform: scale(2) rotate(5deg) translateX(2px);
+
+-webkit-transition: all 2s ease-in;
+-moz-transition: all 2s ease-in;
+-ms-transition: all 2s ease-in;
+-o-transition: all 2s ease-in;
+transition: all 2s ease-in;
+
+-webkit-box-shadow: 2px 2px 2px 2px #91bb62;
+box-shadow: 2px 2px 2px 2px #bfd18e;
 }
 
 thead{
@@ -212,10 +227,10 @@ caption{
 }
 .atri3{
 	background-color: #C6590E;
-etiqueta
+
 }
 .biografia{
-	font-family:franklin gothic heavy;
+	font-family: franklin gothic heavy;
 	color: #000000;
 }
 .url{
@@ -227,4 +242,29 @@ etiqueta
 	font-family: franklin gothic heavy;
 	font-size: 16px;
 	color: #000000;
+}
+.pdf{
+	width: 1080px;
+	height: 1020px;
+	text-align: center;
+}
+
+.imagen:hover{
+	-moz-transform: scale(2) rotate(10deg) translateX(2px);
+-webkit-transform: scale(2) rotate(10deg) translateX(2px);
+-o-transform: scale(2) rotate(10deg) translateX(2px);
+-ms-transform: scale(2) rotate(10deg) translateX(2px);
+transform: scale(2) rotate(10deg) translateX(2px);
+
+-webkit-transition: all 2s ease-in;
+-moz-transition: all 2s ease-in;
+-ms-transition: all 2s ease-in;
+-o-transition: all 2s ease-in;
+transition: all 2s ease-in;
+
+-webkit-box-shadow: 2px 2px 2px 2px #59383D;
+box-shadow: 2px 2px 2px 2px #59383D;
+}
+.imagen{
+	padding-right: 2px;
 }
